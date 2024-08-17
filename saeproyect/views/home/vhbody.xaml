@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="saeproyect.views.home.vhbody">
+  <ContentView.Content>
+      <StackLayout>
+            <Frame HasShadow="True" CornerRadius="20" Padding="10" Margin="60,5">
+                <StackLayout>
+                    <Label Text="Ingrese su DNI:" Padding="-1"/>
+                    <Entry x:Name="txt1" FontSize="Subtitle"/>
+                </StackLayout>
+            </Frame>
+            <Frame HasShadow="False" CornerRadius="20" Padding="10" Margin="60,5">
+                <StackLayout>
+                    <Label Text="Ingrese su Contraseña:" Padding="-1"/>
+                    <Entry x:Name="txt2" FontSize="Subtitle"/>
+                </StackLayout>
+            </Frame>
+            <Label Text="¿olvido su contraseña?" HorizontalOptions="Center" TextColor="Blue"/>
+
+            <Button Text="Ingresar" x:Name="btnsesion" Clicked="btnsesion_Clicked" Style="{StaticResource btn-primary}"/>
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>

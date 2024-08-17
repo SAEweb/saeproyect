@@ -1,12 +1,75 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Jv\\XAMARIN\\saeproyect\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6FC036-66E2-4BAB-9CE1-E7FFFFC2B36B}|saeproyect\\saeproyect.csproj|d:\\jv\\xamarin\\saeproyect\\saeproyect\\views\\home\\vhfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7E6FC036-66E2-4BAB-9CE1-E7FFFFC2B36B}|saeproyect\\saeproyect.csproj|solutionrelative:saeproyect\\views\\home\\vhfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6FC036-66E2-4BAB-9CE1-E7FFFFC2B36B}|saeproyect\\saeproyect.csproj|d:\\jv\\xamarin\\saeproyect\\saeproyect\\views\\home\\vhbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7E6FC036-66E2-4BAB-9CE1-E7FFFFC2B36B}|saeproyect\\saeproyect.csproj|solutionrelative:saeproyect\\views\\home\\vhbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6FC036-66E2-4BAB-9CE1-E7FFFFC2B36B}|saeproyect\\saeproyect.csproj|d:\\jv\\xamarin\\saeproyect\\saeproyect\\views\\home\\vhheader.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7E6FC036-66E2-4BAB-9CE1-E7FFFFC2B36B}|saeproyect\\saeproyect.csproj|solutionrelative:saeproyect\\views\\home\\vhheader.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vhheader.xaml",
+              "DocumentMoniker": "D:\\Jv\\XAMARIN\\saeproyect\\saeproyect\\views\\home\\vhheader.xaml",
+              "RelativeDocumentMoniker": "saeproyect\\views\\home\\vhheader.xaml",
+              "ToolTip": "D:\\Jv\\XAMARIN\\saeproyect\\saeproyect\\views\\home\\vhheader.xaml",
+              "RelativeToolTip": "saeproyect\\views\\home\\vhheader.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T18:35:32.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vhbody.xaml",
+              "DocumentMoniker": "D:\\Jv\\XAMARIN\\saeproyect\\saeproyect\\views\\home\\vhbody.xaml",
+              "RelativeDocumentMoniker": "saeproyect\\views\\home\\vhbody.xaml",
+              "ToolTip": "D:\\Jv\\XAMARIN\\saeproyect\\saeproyect\\views\\home\\vhbody.xaml",
+              "RelativeToolTip": "saeproyect\\views\\home\\vhbody.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T17:29:31.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vhfooter.xaml",
+              "DocumentMoniker": "D:\\Jv\\XAMARIN\\saeproyect\\saeproyect\\views\\home\\vhfooter.xaml",
+              "RelativeDocumentMoniker": "saeproyect\\views\\home\\vhfooter.xaml",
+              "ToolTip": "D:\\Jv\\XAMARIN\\saeproyect\\saeproyect\\views\\home\\vhfooter.xaml",
+              "RelativeToolTip": "saeproyect\\views\\home\\vhfooter.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T17:36:14.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

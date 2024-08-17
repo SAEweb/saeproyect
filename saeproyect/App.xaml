@@ -3,6 +3,31 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="saeproyect.App">
     <Application.Resources>
-
+        <Color x:Key="pkcolor">#24EDAC</Color>
+        <Color x:Key="plcolor">#56DB51</Color>
+        <Color x:Key="pacolor">#F02E5F</Color>
+        <Style x:Key="btn-primary" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="{StaticResource pkcolor}"/>
+            <Setter Property="CornerRadius" Value="60"/>
+            <Setter Property="Padding" Value="20"/>
+            <Setter Property="FontSize" Value="Small"/>
+            <Setter Property="Margin" Value="80,0"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+        </Style>
+        <Style x:Key="btn-second" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="{StaticResource plcolor}"/>
+            <Setter Property="CornerRadius" Value="60"/>
+            <Setter Property="Padding" Value="20"/>
+            <Setter Property="FontSize" Value="Micro"/>
+            <Setter Property="Margin" Value="80,80"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+        </Style>
+        <Style x:Key="lbl-cuenta" TargetType="Label">
+            <Setter Property="TextColor" Value="Black"/>
+            <Setter Property="Padding" Value="20"/>
+            <Setter Property="FontSize" Value="Small"/>
+            <Setter Property="Margin" Value="80,80"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+        </Style>
     </Application.Resources>
 </Application>

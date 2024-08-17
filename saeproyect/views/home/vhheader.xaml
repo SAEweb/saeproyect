@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="saeproyect.views.home.vhheader">
+  <ContentView.Content>
+      <StackLayout>
+
+            <Frame Padding="0" Margin="30,20" CornerRadius="50" HeightRequest="200">
+                <Image Aspect="AspectFill" HeightRequest="250" 
+           Source="https://s1.significados.com/foto/imagen-de-destaque-que-es-el-futbol.-jugadores-y-balon.jpg?class=ogImageSquare"
+           
+           />
+            </Frame>
+            <Label Text="INICIAR SESION" HorizontalOptions="Center" FontAttributes="Bold" FontSize="20"/>
+            <Label VerticalOptions="StartAndExpand" Text="Ingrese sus datos" FontAttributes="Italic" HorizontalOptions="Center" HorizontalTextAlignment="Center" Margin="40,0"/>
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>

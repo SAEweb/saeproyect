@@ -1,6 +1,8 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using saeproyect.views.home;
+using saeproyect.views.product;
 
 namespace saeproyect
 {
@@ -9,8 +11,7 @@ namespace saeproyect
         public App()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
+            MainPage = new vhprincipal();
         }
 
         protected override void OnStart()
